@@ -14,6 +14,6 @@ Hi there 👋I'm Yash Khaitan, a Software Engineer with over a year of experienc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash.k.5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-khaitan-061174233/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/AsYash02) [![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@codingstag) 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=furqanullah717&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furqanullah717&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yashkys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashkys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
